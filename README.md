@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Portfolio Banner](public/projects/smart-classroom.jpg)
 
 ### **Computer Science Engineer · AI & ML Enthusiast · Full-Stack Developer**
 
