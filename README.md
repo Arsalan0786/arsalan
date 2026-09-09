@@ -335,7 +335,6 @@ Feel free to reach out for collaborations, hackathons, open-source projects, or 
 - 💼 **LinkedIn:** [linkedin.com/in/sheikharsalan8146](https://www.linkedin.com/in/sheikharsalan8146)
 - 🐙 **GitHub:** [github.com/Arsalan0786](https://github.com/Arsalan0786)
 - 📸 **Instagram:** [instagram.com/sheikharsalan8146](https://www.instagram.com/sheikharsalan8146)
-- 📞 **Phone:** `+91-9541995177`
 
 ---
 
