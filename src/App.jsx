@@ -3,6 +3,7 @@ import { useTheme } from './hooks/useTheme';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
 import Footer from './components/Footer/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 // Lazy load below-the-fold sections for better performance
 const About = lazy(() => import('./components/About/About'));
@@ -62,6 +63,7 @@ export default function App() {
         </Suspense>
       </main>
       <Footer />
+      <Analytics />
     </>
   );
 }
